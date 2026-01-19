@@ -61,12 +61,8 @@ This script performs exploratory, univariate, and bivariate analysis on a behavi
 - Exploratory data analysis techniques
 - Statistical inference and hypothesis testing
 
----
-
 ## Purpose of This Repository
 This repository highlights some of my academic work in statistics using R, focusing on how I approach data analysis, apply statistical methods, and interpret results. It is intended to give an overview of my skills and experience for academic, internship, and entry-level data or analytics roles.
-
----
 
 ## Author
 **Shruti George**  
